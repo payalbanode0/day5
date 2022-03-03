@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\obj\Debug\net5.0\Flipcoin.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\obj\Debug\net5.0\Flipcoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\obj\Debug\net5.0\Flipcoin.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\obj\Debug\net5.0\Flipcoin.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\obj\Debug\net5.0\Flipcoin.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\bin\Debug\net5.0\Flipcoin.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\bin\Debug\net5.0\Flipcoin.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\bin\Debug\net5.0\Flipcoin.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\bin\Debug\net5.0\Flipcoin.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\bin\Debug\net5.0\Flipcoin.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\bin\Debug\net5.0\Flipcoin.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\obj\Debug\net5.0\Flipcoin.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\obj\Debug\net5.0\refint\Flipcoin.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\obj\Debug\net5.0\Flipcoin.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\obj\Debug\net5.0\Flipcoin.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\Flipcoin\Flipcoin\obj\Debug\net5.0\ref\Flipcoin.dll

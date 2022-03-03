@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\bin\Debug\net5.0\swap.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\bin\Debug\net5.0\swap.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\bin\Debug\net5.0\swap.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\bin\Debug\net5.0\swap.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\bin\Debug\net5.0\swap.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\bin\Debug\net5.0\swap.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\obj\Debug\net5.0\swap.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\obj\Debug\net5.0\swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\obj\Debug\net5.0\swap.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\obj\Debug\net5.0\swap.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\obj\Debug\net5.0\swap.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\obj\Debug\net5.0\swap.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\obj\Debug\net5.0\refint\swap.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\obj\Debug\net5.0\swap.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\obj\Debug\net5.0\swap.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\swap\swap\obj\Debug\net5.0\ref\swap.dll

@@ -1,0 +1,5 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\remainder\remainder\obj\Debug\net5.0\remainder.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\remainder\remainder\obj\Debug\net5.0\remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\remainder\remainder\obj\Debug\net5.0\remainder.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\remainder\remainder\obj\Debug\net5.0\remainder.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\remainder\remainder\obj\Debug\net5.0\remainder.csproj.CoreCompileInputs.cache

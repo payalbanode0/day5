@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\bin\Debug\net5.0\factor.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\bin\Debug\net5.0\factor.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\bin\Debug\net5.0\factor.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\bin\Debug\net5.0\factor.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\bin\Debug\net5.0\factor.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\bin\Debug\net5.0\factor.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\obj\Debug\net5.0\factor.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\obj\Debug\net5.0\factor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\obj\Debug\net5.0\factor.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\obj\Debug\net5.0\factor.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\obj\Debug\net5.0\factor.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\obj\Debug\net5.0\factor.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\obj\Debug\net5.0\refint\factor.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\obj\Debug\net5.0\factor.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\obj\Debug\net5.0\factor.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\factor\factor\obj\Debug\net5.0\ref\factor.dll

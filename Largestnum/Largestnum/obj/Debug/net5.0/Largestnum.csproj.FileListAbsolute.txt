@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\bin\Debug\net5.0\Largestnum.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\bin\Debug\net5.0\Largestnum.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\bin\Debug\net5.0\Largestnum.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\bin\Debug\net5.0\Largestnum.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\bin\Debug\net5.0\Largestnum.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\bin\Debug\net5.0\Largestnum.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\obj\Debug\net5.0\Largestnum.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\obj\Debug\net5.0\Largestnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\obj\Debug\net5.0\Largestnum.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\obj\Debug\net5.0\Largestnum.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\obj\Debug\net5.0\Largestnum.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\obj\Debug\net5.0\Largestnum.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\obj\Debug\net5.0\refint\Largestnum.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\obj\Debug\net5.0\Largestnum.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\obj\Debug\net5.0\Largestnum.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\Largestnum\Largestnum\obj\Debug\net5.0\ref\Largestnum.dll
